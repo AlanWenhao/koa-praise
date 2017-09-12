@@ -1,4 +1,4 @@
-# koa-praise
+# koa-praise(still need to work on it)
 
 - It's a little late cause I spend much time to fix a 500 error.
 - It's weird that the database was changed event it throw a `500` error and I will still working on this task.
